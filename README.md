@@ -23,3 +23,21 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
    ```bash
    git clone https://github.com/RafaelLimaSilva91/Postman_Java_Carguero.git
    ```
+   3. Abra o terminal e acesse a pasta do projeto:
+   
+   ```bash
+   cd Carguero
+   ```
+
+2. Instale o Newman:
+   
+```bash
+npm install -g newman
+```
+
+2. Instale o plugin do Newman para gerar o relatorio em html:
+   
+   ```bash
+   npm install -g newman-reporter-htmlextra
+   ```
+
