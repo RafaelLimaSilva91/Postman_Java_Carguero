@@ -10,15 +10,16 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 - [Postman](https://www.postman.com/downloads/): Ferramenta para automatizar, executar e documentar os testes de APIs.
 - [Newman](https://www.npmjs.com/package/newman-reporter-htmlextra): Ferramenta para executar os testes e gerar relatório.
 
-## 📦 Instalação do Projeto
+## 📦 Instalação do Projeto.
 
 1. Instale o Node.js (LTS - Recommended For Users) e verifique se foi instalado com sucesso, acessando o terminal e consultado.
 
-     
+      ```bash
    node -v
-
+   ```
 
 2. Clone este repositório:
 
-  
+   ```bash
    git clone https://github.com/RafaelLimaSilva91/Carguero.git
+   ```
