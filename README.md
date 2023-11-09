@@ -50,9 +50,8 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 
    ```bash
 newman run "Teste Carguero.postman_collection.json" -r htmlextra
-   ```
-
+   ``
+   
 ## 📎Observação:
-
 O relatório será gerado e estará disponível na pasta newman que se encontra dentro do repositório clonado.
 
