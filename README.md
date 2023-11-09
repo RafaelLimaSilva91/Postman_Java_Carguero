@@ -21,5 +21,5 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/RafaelLimaSilva91/Carguero.git
+   git clone https://github.com/RafaelLimaSilva91/Postman_Java_Carguero.git
    ```
