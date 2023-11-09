@@ -27,7 +27,7 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 3. Abra o terminal e acesse a pasta do projeto:
    
    ```bash
-   cd Carguero
+   cd Postman_Java_Carguero
    ```
 
 4. Instale o Newman:
@@ -41,4 +41,18 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
    ```bash
    npm install -g newman-reporter-htmlextra
    ```
+
+## 🚀 Execução do testes e gerando o relatório html
+
+1. Acesse a pasta do projeto e abra o Terminal.
+
+2. Execute o comando a seguir para executar os testes e gerar o relatório em html:
+
+ ```bash
+newman run "Teste Carguero.postman_collection.json" -r htmlextra
+```
+
+## Observação: 
+
+O relatório será gerado e estará disponível na pasta newman.
 
