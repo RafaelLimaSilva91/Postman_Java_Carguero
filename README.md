@@ -32,9 +32,9 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 
 4. Instale o Newman:
 
-```bash
-npm install -g newman
-```
+   ```bash
+   npm install -g newman
+   ```
 
 5. Instale o plugin do Newman para gerar o relatorio em html:
    
