@@ -37,7 +37,7 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
    ```
 
 5. Instale o plugin do Newman para gerar o relatorio em html:
-   
+
    ```bash
    npm install -g newman-reporter-htmlextra
    ```
@@ -49,9 +49,9 @@ Este projeto é sobre a automação de teste de API dos metodos GET e POST, util
 2. Execute o comando a seguir para executar os testes e gerar o relatório em html:
 
    ```bash
-newman run "Teste Carguero.postman_collection.json" -r htmlextra
-   ``
-   
+   newman run "Teste Carguero.postman_collection.json" -r htmlextra
+   ```
+
 ## 📎Observação:
 O relatório será gerado e estará disponível na pasta newman que se encontra dentro do repositório clonado.
 
